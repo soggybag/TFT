@@ -593,6 +593,12 @@ Oracles fight with weapons not unlike the weapons used by men. Their highly evol
 
 Oracles also have Wizard class who’s use of magic is outside the realms of human understanding works via occult avenues that human wizards have not explored. Oracle wizards pref the following spells: Magic fist, drop weapon, blur, speed movement, shock shield, reverse missiles, reveal/conceal, blast, mage sight, analyze magic, stop, telekinesis, spell shield, teleport.
 
+![oracle warrior](images/oracle-warrior.png)
+
+![oracle wizard](images/oracle-wizard.png)
+
+![oracle monk](images-monk.png)
+
 ### Mothmen
 
 Mothmen are humanoid like insects. The can walk on two hind legs and use their other four limbs for other uses. 
