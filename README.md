@@ -364,6 +364,8 @@ Rock sprites can move through earth and stone just like they across land. While 
 
 Rock sprites fight with sharpened stones of flint or obsidian. These do 1d-2.
 
+![Rock Sprite](images/rock-spirit.png)
+
 ## Humanoids
 
 ### Berserkers
