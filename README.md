@@ -632,6 +632,8 @@ It’s tough rock like hide absorbs 3 hits.
 
 The rock charger lies in wait detecting the footsteps of a victim. It charges at the target with its mouth closed moving through any hex occupied by a smaller creature. Those figures make a 4d ST or are knocked prone. The charger attempts to bite on the next round for 2+1. 
 
+![rock charger](images/rock-charger.png)
+
 ### Shapeshifter/doppelganger 
 
 Shapeshifters are humanoids that can change their appearance to look like another humanoid of the same general size. The are alien in nature with motives unsavory to civilized society. They  often seek to kill and someone they have seen, take on their appearance and use this ruse to find their next victim. 
