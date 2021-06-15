@@ -488,6 +488,8 @@ MA 10 flying. It’s skin stops 2 hits. Attack for 2d to 3d. An air Shark can no
 
 Air sharks ignore engagement and move where they please each turn. They must move each turn! 
 
+![Air Shark](images/air-shark.png)
+
 ### little flying brain with two tentacles 
 
 The flying brain hides out of sight and tries to trick or gain control of sentient creatures so it can drain their ST. Typically using Persuasivenes or Control Person to separate a victim from a group convince them that it is a “friend” and then drain their ST. A Flying Brain might also have animals it has controlled under it’s command. 
