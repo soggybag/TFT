@@ -478,6 +478,8 @@ The snail hydra can retreat into it’s shell where it is protected as plate mai
 
 The Snail Hydra can move across all surfaces and climb walls with its sticky monopod. 
 
+![snail hydra](images/snail-hydra.png)
+
 ### Air Shark
 
 Air sharks are large flying sharks. They swim through the air like sharks swim through water. 
@@ -505,6 +507,8 @@ Spells:
 Confusion, control animal, persuasiveness, control person, telepathy.
 
 Drain ST special attack, as per the spell. 
+
+![small brain](images/small-brain.png)
 
 ### Blood sucking vampiric hummingbirds
 
