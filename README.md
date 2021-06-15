@@ -597,7 +597,7 @@ Oracles also have Wizard class who’s use of magic is outside the realms of hum
 
 ![oracle wizard](images/oracle-wizard.png)
 
-![oracle monk](images-monk.png)
+![oracle monk](images/oracle-monk.png)
 
 ### Mothmen
 
