@@ -281,6 +281,8 @@ Can cast unnoticability at will, ST 1 +1 per turn after. Mage sight, always on.
 
 On any turn they can clearly see a figure they can spend 1 ST and cast Know Secret: make an immediate 3d IQ roll, 4d if demon has the higher IQ. On fail the demon knows one secret about the figure. 
 
+![oculous Demon](images/oculous-demon.png)
+
 ### devouring demon 
 
 These demons have a large gaping maw that leads through the internal organs to a plane of hell. You could say they are bigger on the inside. They can eat anything and will eat everything in their path. 
