@@ -606,6 +606,8 @@ Mothmen are often employed as spies special couriers. While they will work for m
 
 Mothmen use light swords and daggers, and have been know to use light crossbows, and are masters of poisons. 
 
+![Moth man](images/mothman.png)
+
 ### Rock Charger 
 
 Six legged rocky body with no eyes. It has an eye on the end of its tongue. The rock charger looks like boulder or part of the landscape while not moving. 
