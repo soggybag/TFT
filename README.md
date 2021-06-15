@@ -574,6 +574,7 @@ Fur stops 2 hit. Attacks with up to four arms in a turn for 1+2. Tries to grappl
 
 Grab with tentacle vs ST 3d or 4d for two tentacles. A grabbed figure can not move away, but may make another ST check next turn to escape. The octorilla may bite a grabbed figure at +4 for 2d damage.
 
+![octorilla](images/octorilla.png)
 
 ### Oracles
 
