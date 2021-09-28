@@ -74,10 +74,8 @@ Choose any two weapons, a shield counts as a weapon, and a dagger. Choose any ar
 | Pike Ax † | 2+2 | 15 | $100 | 10.0 | 2 1/2-3 meters |
 | Trident*  | 1 | 10 | $30 | 2.0 | 1 1/2 meters; too short for a 2-hex jab |
 | Naginata † | 1+2 | 10 | $65 | 4.0 | 2 meters |
-| Cavalry Lance | 3-1 | 13 | $100 | 9.0 | 3 1/2-4 1/2 meters. Useable only by mounted
-figures - see MOUNTED COMBAT. |
-| Pike †    | 2+1 | 12 | $50 | 6.0 | 5 meters. Normally only used, grounded,
-vs. cavalry - see MOUNTED COMBAT. |
+| Cavalry Lance | 3-1 | 13 | $100 | 9.0 | 3 1/2-4 1/2 meters. Useable only by mounted figures - see MOUNTED COMBAT. |
+| Pike †    | 2+1 | 12 | $50 | 6.0 | 5 meters. Normally only used, grounded, vs. cavalry - see MOUNTED COMBAT. |
 
 - * This weapon may be thrown
 - † This is a two handed weapon
@@ -103,9 +101,7 @@ vs. cavalry - see MOUNTED COMBAT. |
 | Spike Shield | 1 |  0 | $40 |  |  |  |
 | Large Shield | 2 | -1 | $50 |  |  |  |
 | Tower Shield | 3 | -2 | $70 |  |  |  |
-| Main-Gauche  | 1 | -2/4 | $20 |  |  | If used as 2nd weapon, does 1 - 2 damage. DX -4.
-See Main-Gauche under
-LEFT-HAND WEAPONS |
+| Main-Gauche  | 1 | -2/4 | $20 |  |  | If used as 2nd weapon, does 1 - 2 damage. DX -4. See Main-Gauche under LEFT-HAND WEAPONS |
 
   
 Hits stopped
