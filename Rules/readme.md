@@ -51,10 +51,10 @@ Choose any two weapons, a shield counts as a weapon, and a dagger. Choose any ar
 | Heavy Crossbow † | 3 | 15 | $80 | 5.0 | Fires every 3rd turn, or every other turn if adjDX 16+ |
 
 | Ammunition | Cost | Weight | Notes |
-|:-------|:--------|:---|:-----|:-------|:-------|
-| Arrows (20)            | $20 | 0.5 |  |
-| Crossbow Quarrels (20) | $20 | 0.5 |  |
-| Sling Pellets (20)     | $2 | 0.5 |  |
+|:-------|:--------|:---|:-----|:-------|
+| Arrows (20)            | $20 | 0.5 | - |
+| Crossbow Quarrels (20) | $20 | 0.5 | - |
+| Sling Pellets (20)     | $2 | 0.5 | - |
 | Cranequin              | $30 | 1.0 | Used to cock a crossbow |
 
 
