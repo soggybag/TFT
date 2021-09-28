@@ -1,0 +1,73 @@
+# Rules 
+
+## Character Creation
+
+Characters have three attributes: 
+
+- ST - Strength
+- DX - Dexterity
+- IQ - Intelligence
+
+Each starts with 8 points. Divide 12 more points between these to create a starting character. 
+
+## Equipping Character
+
+Choose any two weapons, a shield counts as a weapon, and a dagger.  
+
+| Swords | Damage | ST | Cost | Weight | Notes |
+|:-------|:--------|:---|:-----|:-------|:-------|
+| Dagger*       | 1-1 | - | $10  | 0.1 | See COMBAT WITH BARE HANDS, DAGGERS, CESTUS, OR CLUB |
+| Rapier 1      | 1.  | 9  | $40 | 0.5 | - |
+| Cutlass       | 2-2 | 10 | $50 | 1.5 | - |
+| Shortsword    | 2-1 | 11 | $60 | 2.0 | - |
+| Broadsword    | 2   | 12 | $80 | 2.5 | - |
+| Bastard Sword (1 hand)       | 2+1 | 13 | $100 | 3.5 | - |
+| Bastard Sword (two handed) † | 3-2 | 13 | $100 | 3.5 | - |
+| 2-handed Sword † | 3-1 | 14 | $120 | 5 | - |
+| Great Sword #    | 3+1 | 16 | $150 | 7 | - |
+
+| Axes and Hammers | Damage | ST | Cost | Weight | Notes |
+|:-------|:--------|:---|:-----|:-------|:-------|
+| Club*           | -   | -  | $10 | 1.5 | See COMBAT WITH BARE HANDS, DAGGERS, CESTUS, OR CLUB |
+| Hatchet*        | 1   | 9  | $15 | 1.0 | - |
+| Hammer*        | 1+1 | 10 | $25 | 2.0 | - |
+| Mace*           | 2-1 | 11 | $40 | 3.0 | - |
+| Small Axe*      | 1+2 | 11 | $30 | 2.5 | - |
+| Military Pick   | 2   | 12 | $60 | 4.0 | - |
+| Morning Star    | 2+1 | 13 | $100 | 6.0 | - |
+| Great Hammer †  | 2+2 | 14 | $110 | 8.0 | - |
+| Battle Axe#      | 3   | 15 | $130 | 10.0 | - |
+
+| Missile Weapons | Damage | ST | Cost | Weight | Notes |
+|:-------|:--------|:---|:-----|:-------|:-------|
+| Throw Rock     | 1-4 | - | - | 0.3 | - |
+| Sling           | 1-2 | - | $2 | 0.5 | - |
+| Small Bow †    | 1-1 | 9 | $20 | 2.0 | 2 shots/turn, if adjDX 15+ |
+| Horse Bow †     | 1   | 10 | $30 | 2.0 | 2 shots/turn, if adjDX 16+ |
+| Longbow #       | 1+2 | 11 | $40 | 2.0 | 2 shots/turn, if adjDX 18+ |
+| Light Crossbow † | 2 | 12 | $50 | 3.0 | Fires every other turn, or every turn if adjDX 14+ |
+| Heavy Crossbow † | 3 | 15 | $80 | 5.0 | Fires every 3rd turn, or every other turn if adjDX 16+ |
+
+| Ammunition | Cost | Weight | Notes |
+|:-------|:--------|:---|:-----|:-------|:-------|
+| Arrows (20)            | $20 | 0.5 |  |
+| Crossbow Quarrels (20) | $20 | 0.5 |  |
+| Sling Pellets (20)     | $2 | 0.5 |  |
+| Cranequin              | $30 | 1.0 | Used to cock a crossbow |
+
+
+| Pole Weapons | Damage | ST | Cost | Weight | Notes |
+|:-------------|:--------|:---|:-----|:-------|:-------|
+| Javelin* | 1-1 | 9 | $20 | 1.5 | 1 1/2 meters; too short to make a 2-hex jab |
+| Spear*   | 1   | 11 | $40 | 3.0 | 2-21/2 meters |
+| Spear (2 hands) *† | 1+1 | 11 | $40 | 3.0 | 2-21/2 meters (sometimes much longer) |
+| Halberd † | 2 | 13 | $70 | 8.0 | 2-2 1/2 meters |
+| Pike Ax † | 2+2 | 15 | $100 | 10.0 | 2 1/2-3 meters |
+| Trident*  | 1 | 10 | $30 | 2.0 | 1 1/2 meters; too short for a 2-hex jab |
+| Naginata † | 1+2 | 10 | $65 | 4.0 | 2 meters |
+| Cavalry Lance | 3-1 | 13 | $100 | 9.0 | 3 1/2-4 1/2 meters. Useable only by mounted
+figures - see MOUNTED COMBAT. |
+| Pike †    | 2+1 | 12 | $50 | 6.0 | 5 meters. Normally only used, grounded,
+vs. cavalry - see MOUNTED COMBAT. |
+
+
