@@ -14,9 +14,9 @@ Each starts with 8 points. Divide 12 more points between these to create a start
 
 Choose any two weapons, a shield counts as a weapon, and a dagger. Choose any armor. 
 
-### Weapons
+### Swords
 
-| Swords | Damage | ST | Cost | Weight | Notes |
+| Type | Damage | ST | Cost | Weight | Notes |
 |:-------|:--------|:---|:-----|:-------|:-------|
 | Dagger*       | 1-1 | - | $10  | 0.1 | See COMBAT WITH BARE HANDS, DAGGERS, CESTUS, OR CLUB |
 | Rapier 1      | 1.  | 9  | $40 | 0.5 | - |
@@ -28,7 +28,9 @@ Choose any two weapons, a shield counts as a weapon, and a dagger. Choose any ar
 | 2-handed Sword † | 3-1 | 14 | $120 | 5 | - |
 | Great Sword #    | 3+1 | 16 | $150 | 7 | - |
 
-| Axes and Hammers | Damage | ST | Cost | Weight | Notes |
+### Axes and Hammers
+
+| Type | Damage | ST | Cost | Weight | Notes |
 |:-------|:--------|:---|:-----|:-------|:-------|
 | Club*           | -   | -  | $10 | 1.5 | See COMBAT WITH BARE HANDS, DAGGERS, CESTUS, OR CLUB |
 | Hatchet*        | 1   | 9  | $15 | 1.0 | - |
@@ -40,7 +42,9 @@ Choose any two weapons, a shield counts as a weapon, and a dagger. Choose any ar
 | Great Hammer †  | 2+2 | 14 | $110 | 8.0 | - |
 | Battle Axe#      | 3   | 15 | $130 | 10.0 | - |
 
-| Missile Weapons | Damage | ST | Cost | Weight | Notes |
+### Missile Weapons
+
+| Type | Damage | ST | Cost | Weight | Notes |
 |:-------|:--------|:---|:-----|:-------|:-------|
 | Throw Rock     | 1-4 | - | - | 0.3 | - |
 | Sling           | 1-2 | - | $2 | 0.5 | - |
@@ -50,15 +54,18 @@ Choose any two weapons, a shield counts as a weapon, and a dagger. Choose any ar
 | Light Crossbow † | 2 | 12 | $50 | 3.0 | Fires every other turn, or every turn if adjDX 14+ |
 | Heavy Crossbow † | 3 | 15 | $80 | 5.0 | Fires every 3rd turn, or every other turn if adjDX 16+ |
 
-| Ammunition | Cost | Weight | Notes |
+### Ammunition
+
+| Type | Cost | Weight | Notes |
 |:-------|:--------|:---|:-----|
 | Arrows (20)            | $20 | 0.5 | - |
 | Crossbow Quarrels (20) | $20 | 0.5 | - |
 | Sling Pellets (20)     | $2 | 0.5 | - |
 | Cranequin              | $30 | 1.0 | Used to cock a crossbow |
 
+### Pole Weapons
 
-| Pole Weapons | Damage | ST | Cost | Weight | Notes |
+| Type | Damage | ST | Cost | Weight | Notes |
 |:-------------|:--------|:---|:-----|:-------|:-------|
 | Javelin* | 1-1 | 9 | $20 | 1.5 | 1 1/2 meters; too short to make a 2-hex jab |
 | Spear*   | 1   | 11 | $40 | 3.0 | 2-21/2 meters |
@@ -72,8 +79,8 @@ figures - see MOUNTED COMBAT. |
 | Pike †    | 2+1 | 12 | $50 | 6.0 | 5 meters. Normally only used, grounded,
 vs. cavalry - see MOUNTED COMBAT. |
 
-* This weapon may be thrown
-† This is a two handed weapon
+- * This weapon may be thrown
+- † This is a two handed weapon
 
 ### armor
 
@@ -89,36 +96,23 @@ vs. cavalry - see MOUNTED COMBAT. |
 
 
 ### Shields 
+
 | Type | hits | DX | Cost | Weight | Move | Notes |
 |:-----|:-----|:---|:-----|:-------|:-----|:------|
 | Small Shield | 1 |  0 | $30 |  |  |  |
 | Spike Shield | 1 |  0 | $40 |  |  |  |
 | Large Shield | 2 | -1 | $50 |  |  |  |
 | Tower Shield | 3 | -2 | $70 |  |  |  |
-| Main-Gauche  | 1 | -2/4 | $20 |  |  |  |
+| Main-Gauche  | 1 | -2/4 | $20 |  |  | If used as 2nd weapon, does 1 - 2 damage. DX -4.
+See Main-Gauche under
+LEFT-HAND WEAPONS |
 
   
 Hits stopped
 1
 2 3 4 5 6 1
 1
-1
-2 3 1
-DX- Cost
--1 $50
--2 $100 -3 $200 -5 $300 -6 $500 -4 $5,000 -1or- Varies 2
-0 $30
-0 $40
--1 $50 .2 $70 -2/4 $20
-Wt (kg) MA
-7 10
-8 8 15 6 20 6 25 6 25 6
-- - 5 -
-6 -
-10 -
-15 - .3 -
-*-This weapon may be
-†-This is a two-handed weapon. If the fighter has a shield, it must be slung on
+
 Notes
 See ARMOR AND SHIELDS: PROTECTION FROM HITS
 These are weights and costs for HUMAN- sized figures.
@@ -127,9 +121,7 @@ Armor Weights and Costs.
 Stops 1 hit from rear only
 See ARMOR AND SHIELDS:
 PROTECTION FROM HITS
-If used as 2nd weapon, does 1 - 2 damage. DX -4.
-See Main-Gauche under
-LEFT-HAND WEAPONS
+
 his/her back while the weapon is ready
 thrown-see THROWN WEAPONS.
 
