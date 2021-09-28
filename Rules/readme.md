@@ -51,7 +51,7 @@ Choose any two weapons, a shield counts as a weapon, and a dagger. Choose any ar
 | Heavy Crossbow † | 3 | 15 | $80 | 5.0 | Fires every 3rd turn, or every other turn if adjDX 16+ |
 
 | Ammunition | Cost | Weight | Notes |
-|:-------|:--------|:---|:-----|:-------|
+|:-------|:--------|:---|:-----|
 | Arrows (20)            | $20 | 0.5 | - |
 | Crossbow Quarrels (20) | $20 | 0.5 | - |
 | Sling Pellets (20)     | $2 | 0.5 | - |
@@ -77,7 +77,7 @@ vs. cavalry - see MOUNTED COMBAT. |
 
 ### armor
 
-| Type | hits | DX | Cost | Wright | Move | Notes |
+| Type | hits | DX | Cost | Weight | Move | Notes |
 |:-----|:-----|:---|:-----|:-------|:-----|:------|
 | Cloth Armor   | 1 | -1 | $50   | 7.0  | 10 |  |
 | Leather Armor | 2 | -2 | $100  | 8.0  | 8 |  |
@@ -89,7 +89,7 @@ vs. cavalry - see MOUNTED COMBAT. |
 
 
 ### Shields 
-| Type | hits | DX | Cost | Wright | Move | Notes |
+| Type | hits | DX | Cost | Weight | Move | Notes |
 |:-----|:-----|:---|:-----|:-------|:-----|:------|
 | Small Shield | 1 |  0 | $30 |  |  |  |
 | Spike Shield | 1 |  0 | $40 |  |  |  |
